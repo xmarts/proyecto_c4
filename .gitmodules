@@ -1,6 +1,3 @@
 [submodule "help_desk_community"]
 	path = help_desk_community
 	url = git@gitlab.com:xmarts/apps/help_desk_community.git
-[submodule "helpdesk_complemento"]
-	path = helpdesk_complemento
-	url = git@gitlab.com:xmarts/xmarts-apps/helpdesk_complemento.git
